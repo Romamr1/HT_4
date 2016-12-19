@@ -1,0 +1,13 @@
+.box {
+	margin: 5px;
+	border: 2px solid #ccc;
+}
+
+ul {
+	list-style-type: none;	
+}
+
+label {
+	width: 100px;	
+	display: inline-block;
+}
